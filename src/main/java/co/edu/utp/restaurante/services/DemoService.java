@@ -1,4 +1,4 @@
-package com.utp.edu.restaurante.services;
+package co.edu.utp.restaurante.services;
 
 import org.springframework.stereotype.Service;
 
